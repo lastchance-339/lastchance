@@ -2,7 +2,7 @@
 Kana sabu bhala ta .
 int my_strlen(char *s)
 {
-   char *p = s;
+   char *p = s;wjhdwhuhewudhuewd
 
    while (*p)
       ++p;
