@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+Kana sabu bhala ta .
 int my_strlen(char *s)
 {
    char *p = s;
